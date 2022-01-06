@@ -1,0 +1,5 @@
+﻿  OrObjetosListas7.1.cpp
+d:\documentos\visual studio 2015\projects\orobjetoslistas7.1\orobjetoslistas7.1\orobjetoslistas7.1.cpp(118): warning C4715: 'lista1::agregar_nodo': no todas las rutas de acceso de control devuelven un valor
+  AssemblyInfo.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  OrObjetosListas7.1.vcxproj -> d:\documentos\visual studio 2015\Projects\OrObjetosListas7.1\Debug\OrObjetosListas7.1.exe
+  OrObjetosListas7.1.vcxproj -> d:\documentos\visual studio 2015\Projects\OrObjetosListas7.1\Debug\OrObjetosListas7.1.pdb (Partial PDB)

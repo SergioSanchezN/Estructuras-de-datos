@@ -1,0 +1,7 @@
+﻿  SergioAndresSanchezNiñoFila.cpp
+SergioAndresSanchezNiñoFila.cpp(133): warning C4101: 'nuevo': variable local sin referencia
+SergioAndresSanchezNiñoFila.cpp(133): warning C4101: 'eliminar': variable local sin referencia
+SergioAndresSanchezNiñoFila.cpp(133): warning C4101: 'apun': variable local sin referencia
+  AssemblyInfo.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  SergioAndresSanchezNiñoFila.vcxproj -> d:\documentos\visual studio 2015\Projects\SergioAndresSanchezNiñoFila\Debug\SergioAndresSanchezNiñoFila.exe
+  SergioAndresSanchezNiñoFila.vcxproj -> d:\documentos\visual studio 2015\Projects\SergioAndresSanchezNiñoFila\Debug\SergioAndresSanchezNiñoFila.pdb (Partial PDB)

@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  OrObjetosListas1.cpp
+  Generando código...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  OrObjetosListas1.vcxproj -> D:\Documentos\ejercicios analisis\OrObjetosListas1\Debug\OrObjetosListas1.exe
+  OrObjetosListas1.vcxproj -> D:\Documentos\ejercicios analisis\OrObjetosListas1\Debug\OrObjetosListas1.pdb (Partial PDB)

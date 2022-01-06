@@ -1,0 +1,5 @@
+﻿  OrObjetosListas7.cpp
+c:\users\sergi\documents\mis documentos\visual studio\orobjetoslistas7\orobjetoslistas7\orobjetoslistas7.cpp(116): warning C4715: 'lista1::agregar_nodo': no todas las rutas de acceso de control devuelven un valor
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  OrObjetosListas7.vcxproj -> C:\Users\sergi\Documents\Mis Documentos\Visual Studio\OrObjetosListas7\Debug\OrObjetosListas7.exe

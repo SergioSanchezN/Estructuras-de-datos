@@ -1,0 +1,6 @@
+﻿  OrObjetosListas3.cpp
+OrObjetosListas3.cpp(90): warning C4101: 'apun': variable local sin referencia
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  OrObjetosListas3.vcxproj -> D:\Documentos\ejercicios analisis\OrObjetosListas3\Debug\OrObjetosListas3.exe
+  OrObjetosListas3.vcxproj -> D:\Documentos\ejercicios analisis\OrObjetosListas3\Debug\OrObjetosListas3.pdb (Partial PDB)

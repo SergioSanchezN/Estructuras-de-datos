@@ -1,0 +1,5 @@
+﻿  Arboles_Binarios.cpp
+f:\arboles_binarios\arboles_binarios\arboles_binarios.cpp(348): warning C4101: 'raiz': variable local sin referencia
+f:\arboles_binarios\arboles_binarios\arboles_binarios.cpp(215): warning C4715: 'ABB::alturaArbol': no todas las rutas de acceso de control devuelven un valor
+  Arboles_Binarios.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Arboles_Binarios.vcxproj -> F:\Arboles_Binarios\Debug\Arboles_Binarios.exe
